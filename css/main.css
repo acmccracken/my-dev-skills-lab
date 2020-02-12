@@ -1,0 +1,40 @@
+body{
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+table{
+    width: 250px;
+    color: rgba(211, 183, 23, 0.913);
+    font-weight: 500;
+}
+#gap{
+    padding-top: 200px;
+}
+#quarterGap{
+    padding-top: 25px;
+}
+#headerLol{
+    color: white;
+    height: 40px;
+    font-size: 25px;
+    font-weight: 500;
+    width: 300px;
+    background-color: rgb(55, 211, 125);
+    text-align: center;
+
+}
+input{
+    border-color: rgb(55, 211, 125);
+}
+
+#getInput{
+    border-color: rgb(55, 211, 125);
+    background-color: white;
+    color: rgb(55, 211, 125)
+}
+
